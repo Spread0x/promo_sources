@@ -4,16 +4,16 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.15.20",
-    "gatsby-plugin-manifest": "^2.2.18",
-    "gatsby-plugin-offline": "^3.0.8",
-    "gatsby-plugin-react-helmet": "^3.1.8",
+    "gatsby": "^3.3.0",
+    "gatsby-plugin-manifest": "^3.3.0",
+    "gatsby-plugin-offline": "^4.3.0",
+    "gatsby-plugin-react-helmet": "^4.3.0",
     "lodash.template": "^4.5.0",
-    "mixin-deep": "^1.3.2",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-helmet": "^5.2.1",
-    "set-value": "^2.0.1"
+    "mixin-deep": "^2.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "set-value": "^3.0.2"
   },
   "keywords": [
     "gatsby"
@@ -26,7 +26,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^2.2.1"
   },
   "repository": {
     "type": "git",
